@@ -1,1 +1,1 @@
-console.application('test')
+console.log('test')
